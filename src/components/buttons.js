@@ -18,8 +18,8 @@ function Buttons({ handleCalculation }) {
       <button className="button" type="button" onClick={() => handleClick('%')}>
         %
       </button>
-      <button className="button operator" type="button" onClick={() => handleClick('/')}>
-        /
+      <button className="button operator" type="button" onClick={() => handleClick('÷')}>
+        ÷
       </button>
       <button className="button" type="button" onClick={() => handleClick('7')}>
         7
@@ -31,7 +31,7 @@ function Buttons({ handleCalculation }) {
         9
       </button>
       <button className="button operator" type="button" onClick={() => handleClick('x')}>
-        X
+        x
       </button>
       <button className="button" type="button" onClick={() => handleClick('4')}>
         4
