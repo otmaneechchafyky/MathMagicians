@@ -1,0 +1,30 @@
+.calculator_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: gray;
+  width: 50%;
+}
+
+.cont {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  background-color: rgba(211, 211, 211, 0.247);
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: rgb(102, 102, 102);
+}
+
+.result {
+  height: 5rem;
+  color: #fff;
+  font-size: 3rem;
+  align-self: self-end;
+  padding: 0.2rem;
+  width: auto;
+}

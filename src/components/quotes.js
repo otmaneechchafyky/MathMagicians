@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import styles from './quotes.module.css';
 
 const Quotes = () => {
   const [quote, setQuote] = useState('');
@@ -28,21 +29,26 @@ const Quotes = () => {
 
   if (quote === '') {
     // Render a loading indicator while the state is being fetched
-    return <div className="display-quote">Loading...</div>;
+    return (
+      <div className={styles.firstcont}>
+        <div className={styles.display_quote}>Loading...</div>
+      </div>
+    );
   }
-
   return (
-    <div className="display-quote">
-      <p>
-        &quot;
-        {quote}
-        &quot;
-        <br />
-        <span className="author">
-          -
-          {author}
-        </span>
-      </p>
+    <div className={styles.firstcont}>
+      <div className={styles.display_quote}>
+        <p>
+          &quot;
+          {quote}
+          &quot;
+          <br />
+          <span className={styles.author}>
+            -
+            {author}
+          </span>
+        </p>
+      </div>
     </div>
   );
 };

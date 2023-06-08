@@ -1,0 +1,33 @@
+.navbar {
+  height: 4rem;
+  background-color: rgba(156, 175, 182, 0.432);
+  color: rgb(102, 102, 102);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15% 0 10%;
+  font-size: 2rem;
+}
+
+.navList {
+  display: flex;
+  flex-direction: row;
+  gap: 20%;
+  font-size: 1.15rem;
+}
+
+.navLink {
+  color: rgb(102, 102, 102);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+.navLink:hover {
+  color: orangered;
+}
+
+.mathtitle {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
