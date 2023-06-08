@@ -86,7 +86,7 @@ REQUIRED SECTIONS:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://reacttodoapp-7xi1.onrender.com/)
+- [Live Demo Link](https://mathmagicians-d5ke.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
