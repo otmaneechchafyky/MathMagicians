@@ -18,11 +18,6 @@ REQUIRED SECTIONS:
 - Show your support
 - Acknowledgements
 - License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
@@ -55,12 +50,11 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [MathMagicians] <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
 **[Math Magicians]** is a mathematics website. It is a Single Page App (SPA) that allows users to make simple calculations and read random math-related quotes. Built with React.
 
@@ -83,10 +77,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-<!-- - **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]** -->
-- n/a
+- **[Getting random Quotes]**
+- **[Do calculating]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,9 +86,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- n/a
-
-<!-- - [Live Demo Link](https://google.com) -->
+- [Live Demo Link](https://reacttodoapp-7xi1.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,77 +96,49 @@ After you're finished please remove all the comments and instructions!
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
+In order to run this project you need to run:
 
 ```sh
  npm run start 
 ```
- -->
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
+Clone this repository to your desired folder using these commands:
 
 ```sh
  $ git clone https://github.com/otmaneechchafyky/MathMagicians.git
  $ cd MathMagicians
 ```
---->
 
-<!-- ### Install
+ ### Install
 
-Install this project with: -->
+Install this project with by running:
 
-<!--
-Example command:
 
 ```sh
-  cd my-project
+  cd MathMagicians
   gem install
 ```
---->
 
-<!-- ### Usage
+### Run tests
 
-To run the project, execute the following command: -->
-
-<!--
-Example command:
+To run tests, run the following command:
 
 ```sh
-  rails server
+  npm test [file name]
 ```
---->
 
-<!-- ### Run tests
+### Deployment
 
-To run tests, run the following command: -->
+You can deploy this project using:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-<!-- ### Deployment
-
-You can deploy this project using: -->
-
-<!--
 Example:
 
 ```sh
-
+  - Render
+  - Netlify
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,9 +161,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[New Routes]**
+- [ ] **[Animation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
